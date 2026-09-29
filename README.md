@@ -107,6 +107,7 @@ Vegetarian food therefore accounts for the larger share of revenue in this datas
 | Hyderabad |      ₹3.02M |
 | Mumbai    |      ₹3.02M |
 | New Delhi |      ₹2.83M |
+
 Bengaluru has the highest sales among the five cities displayed, with a substantial lead over the remaining cities. Hyderabad and Mumbai generate nearly identical revenue.
 
 -> Quarterly Performance
@@ -115,6 +116,7 @@ Bengaluru has the highest sales among the five cities displayed, with a substant
 | Q1      | ₹19.7M |    4.3 |  73.1K |
 | Q2      | ₹19.9M |    4.3 |  74.2K |
 | Q3      | ₹13.4M |    4.3 |  50.2K |
+
 Q2 records slightly higher sales and order volumes than Q1. Q3 shows lower reported totals, but the dashboard covers only January through August, so Q3 is incomplete and should not be directly compared with full quarters.
 The quarterly rating remains approximately 4.3 throughout the reporting period.
 
@@ -137,7 +139,7 @@ This dashboard can support several business reporting activities:
 * Conditional formatting
 * Business reporting and data storytelling
 
-** 8. Conclusion**
+ 8. Conclusion
 This project demonstrates how Microsoft Excel can be used to develop an interactive sales reporting dashboard from transactional data.
 By combining PivotTables, PivotCharts, slicers and KPI cards, the dashboard provides a consolidated view of sales performance, food preferences, geographical distribution and ordering patterns.
 
